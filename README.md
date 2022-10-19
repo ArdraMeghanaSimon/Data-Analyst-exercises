@@ -1,2 +1,2 @@
 # Data-Analyst-exercises
-all my work towards becoming a data analyst
+All my work towards becoming a data analyst
